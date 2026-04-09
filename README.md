@@ -2,16 +2,16 @@
 
 A comprehensive collection of cryptographic algorithms and protocols implemented in Python, ranging from classical ciphers to modern cryptographic primitives.
 
-## 📋 Table of Contents
+## Table of Contents
 - [Overview](#overview)
 - [Algorithms Included](#algorithms-included)
 - [Installation](#installation)
 
-## 📖 Overview
+## Overview
 
 This repository contains Python implementations of various cryptographic algorithms for educational purposes. The implementations demonstrate fundamental concepts in cryptography and information security.
 
-## 🔐 Algorithms Included
+## Algorithms Included
 
 ### Classical Ciphers
 1. **Caesar Cipher** (`1_caesar.py`) - Simple substitution cipher
@@ -28,16 +28,15 @@ This repository contains Python implementations of various cryptographic algorit
 10. **Miller-Rabin Test** (`10_miller.py`) - More robust primality test
 
 ### Modern Cryptography
-11. **DES** (`11_des.py`, `11_DES1.py`) - Data Encryption Standard
+11. **DES** (`11_des.py`, **'11_DES1.py'**) - Data Encryption Standard *`11_des.py` is just an example implementation and '11_DES1.py' is the complete implementation of DES algorithm
 12. **Diffie-Hellman** (`12_diffieHellmen.py`) - Key exchange protocol
 13. **RSA** (`13_rsa.py`) - Public-key cryptosystem
 14. **MD5** (`14_md5nolib.py`) - Message Digest Algorithm
 15. **MD4** (`md4.py`) - Earlier hash function
 16. **AES** (`aes.py`) - Advanced Encryption Standard
 
-## 🚀 Installation
+## Installation
 
 Clone the repository:
-```bash
 git clone https://github.com/aarchi-palikhel/cryptography-implementations.git
 cd cryptography-implementations
