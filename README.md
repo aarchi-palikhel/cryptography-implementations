@@ -5,11 +5,11 @@ A comprehensive collection of cryptographic algorithms and protocols implemented
 ## Table of Contents
 - [Overview](#overview)
 - [Algorithms Included](#algorithms-included)
-- [Installation](#installation)
 
 ## Overview
 
-This repository contains Python implementations of various cryptographic algorithms for educational purposes. The implementations demonstrate fundamental concepts in cryptography and information security.
+This repository contains Python implementations of various cryptographic algorithms completed as part of the lab work for the Information Security subject studied in the 5th semester of BIM. These implementations demonstrate fundamental concepts in cryptography and information security.
+
 
 ## Algorithms Included
 
@@ -35,8 +35,3 @@ This repository contains Python implementations of various cryptographic algorit
 15. **MD4** (`md4.py`) - Earlier hash function
 16. **AES** (`aes.py`) - Advanced Encryption Standard
 
-## Installation
-
-Clone the repository:
-git clone https://github.com/aarchi-palikhel/cryptography-implementations.git
-cd cryptography-implementations
